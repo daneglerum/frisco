@@ -1,0 +1,6 @@
+div#sidebar div.padder { margin-right:0px !important;}
+#container #content {background-color:white;}
+
+div#container div#content div.padder {margin-right: 0px;}
+div#container div#content div.padder div#item-header { width:100%; }
+
